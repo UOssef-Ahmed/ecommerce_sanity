@@ -342,8 +342,8 @@ padding: 20px 10px;
 }
 .product{
   display: flex;
- gap: 30px;
-  padding: 20px;
+ gap: 15px;
+  padding: 7px;
 }
 .product .cart-product-image{
   width:180px ;
